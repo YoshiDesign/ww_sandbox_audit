@@ -1,0 +1,17 @@
+body > #histogram-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    letter-spacing: -0.011em;
+    font-family: 'Inter var', sans-serif;
+    font-size: 16px;
+    color: #99bbdd;
+    background:#072c52;
+
+    /* background: #f8f9fa; */
+}
+
+#histogram-wrapper > svg {
+    fill: #34495e;
+}
