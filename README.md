@@ -4,6 +4,8 @@
 
 *src/ww_client/* - React App frontend
 
+*src/server.go* - API entry points and static file server.
+
 ### Area of interest: Typeahead search recommendations
 
 *src/ww/ww_utils/utils_Typeahead.go* - This is the typeahead system that is implemented at myworldworks.com. After selecting "United States of America"
