@@ -1,6 +1,6 @@
 # ww_sandbox_audit
 
-*src/ww/* - dubdub.com/dubdub/ww/* Packages
+*src/ww/* - dubdub.com/dubdub/ww/* Package
 
 *src/ww_client/* - React App frontend
 
