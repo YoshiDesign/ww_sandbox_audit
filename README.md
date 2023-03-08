@@ -1,5 +1,7 @@
 # ww_sandbox_audit
 
+Hello! This repository contains a large collection of files from my private repository for The World Works. The purpose of this repository is to allow clients and hiring entities to view my code, and get a glimpse of my programming practices.
+
 *src/ww/* - dubdub.com/dubdub/ww/* Package
 
 *src/ww_client/* - React App frontend
